@@ -5,7 +5,7 @@ short discription of dataset and business questions.
 - layoffs_data.sql - raw table structure + full data insert
 - layoffs_queries.sql - backup, cleaning, transform, final analysis queries
 - READ.md - this file
-- ## How to run
+## How to run
 - 1. Load data:
   - mysql -u <user> -p <database> < layoffs_data.sql
   2. Run queries ;
